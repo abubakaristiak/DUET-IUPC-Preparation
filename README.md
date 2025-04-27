@@ -3,8 +3,8 @@ Learning materials:
 2. https://neetcode.io/practice?tab=blind75
 
 AUST IUPC Problemset (Cf)
-https://codeforces.com/gym/105723
+[AUST](https://codeforces.com/gym/105723)
 
 
-Previous IUPC Problem Set:
+Previous IUPC Problemset:
 [IUPC](https://therealbcs.com/iupc)
