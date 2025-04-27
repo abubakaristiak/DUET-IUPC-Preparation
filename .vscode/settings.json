@@ -9,6 +9,8 @@
         "initializer_list": "cpp",
         "regex": "cpp",
         "utility": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "string": "cpp",
+        "deque": "cpp"
     }
 }
