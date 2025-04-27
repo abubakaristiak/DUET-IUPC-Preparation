@@ -4,3 +4,7 @@ Learning materials:
 
 AUST IUPC Problemset (Cf)
 https://codeforces.com/gym/105723
+
+
+Previous IUPC Problem Set:
+[IUPC](https://therealbcs.com/iupc)
