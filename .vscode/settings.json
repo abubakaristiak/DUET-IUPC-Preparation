@@ -12,6 +12,7 @@
         "valarray": "cpp",
         "string": "cpp",
         "deque": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "tuple": "cpp"
     }
 }
