@@ -11,6 +11,7 @@
         "utility": "cpp",
         "valarray": "cpp",
         "string": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "ratio": "cpp"
     }
 }
