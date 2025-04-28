@@ -8,3 +8,5 @@ AUST IUPC Problemset (Cf)
 
 Previous IUPC Problemset:
 [IUPC](https://therealbcs.com/iupc)
+
+https://github.com/abubakaristiak/DUET-IUPC-Preparation/blob/master/bg.png
