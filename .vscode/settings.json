@@ -13,6 +13,8 @@
         "string": "cpp",
         "deque": "cpp",
         "ratio": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "set": "cpp",
+        "list": "cpp"
     }
 }
