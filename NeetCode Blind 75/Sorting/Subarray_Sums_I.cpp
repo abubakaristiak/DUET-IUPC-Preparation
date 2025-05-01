@@ -6,6 +6,7 @@
  * * * * File    : Subarray_Sums_I.cpp
 */
 
+// https://cses.fi/problemset/task/1660/
 
 #include<bits/stdc++.h>
 #include<ext/pb_ds/assoc_container.hpp>
