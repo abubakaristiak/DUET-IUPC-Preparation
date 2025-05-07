@@ -15,6 +15,7 @@
         "ratio": "cpp",
         "tuple": "cpp",
         "set": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "random": "cpp"
     }
 }
